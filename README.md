@@ -22,7 +22,7 @@ Dit maakt dat ik breed onderlegd en inzetbaar ben</b>
     - Logistics Engineer
     - ---------------------
   - <b>Werkgever:ICU MedicaL </b>
-    -https://www.icumed.com//
+    -https://www.icumed.com/
     - Data Analist
     - ---------------------
 <h2>📺 Vaardigheden</h2>
