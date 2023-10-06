@@ -27,7 +27,7 @@ Dit maakt dat ik breed onderlegd en inzetbaar ben</b>
     - ---------------------
 <h2>📺 Vaardigheden</h2>
 
-- Power BI
+- Power BI (https://github.com/PatrickBrom/portfolio)
   - Ik heb een aantal Power BI rapporten bijgevoegd, waarbij ik u een indruk van mijn vaardigheden probeer te geven.)
     - Churning report - SQL
       - Gebasseerd op een dataset gedeeld door Maven Analytics
