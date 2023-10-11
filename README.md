@@ -38,11 +38,16 @@ Dit maakt dat ik breed onderlegd en inzetbaar ben</b>
       - Gebaseerd op exact dezelfde dataset, maar nu opgebouwd in Excel, met bijbehorende formules, draaitabellen en waar nodig VBA.
   
 
-<h2>Certificates</h2>
+<h2>Licenties & Certificaten</h2>
 
-  - DAMA CDMP Certified
+  - DAMA CDMP Certification - Associate
+  - Data Governance Data Ethics
+  - The complete Python Bootcamp
+  - Using Python with Excel
   - SPSS Essential Training
-  - Master SQL Development Learning Path                                                                                      
+  - Advanced SQL, Logic Query Processing
+  - Master SQL Development Learning Path
+  - Master SQL Development                                                                                      
   - SQL Essential Training
   -	Regression Analysis Fundamentals
   - Data Visualisation Storytelling
@@ -56,7 +61,6 @@ Dit maakt dat ik breed onderlegd en inzetbaar ben</b>
   -	Career Essentials in Business Analysis by Microsoft
   -	Excel Supply Chain Analysis Solving Inventory problems
   -	Excel Supply Chain Analysis Transportation Inventory problems
-  -	SQL Essential training
   -	Financial Forecasting with Analytics Essential training
   -	Predictive Analytics with Analytics Essential training
   -	Advance Sales Analytics for Decision Making with Power BI 
