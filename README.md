@@ -2,7 +2,7 @@
 
 <h2>Consultant Data Management</h2>
 
-- <b>Met ruim 20 jaar ervaring met Business Intelligence in diverse sectoren, ben ik gepassioneerd over het optimaliseren van bedrijfsprocessen en het transformeren van data in bruikbare informatie. 
+<b>Met ruim 20 jaar ervaring met Business Intelligence in diverse sectoren, ben ik gepassioneerd over het optimaliseren van bedrijfsprocessen en het transformeren van data in bruikbare informatie. 
 
 Ik heb uitgebreide kennis van SQL, Power BI, Power Query, VBA, Access en SharePoint en ben in staat om complexe databronnen om te zetten in betrouwbare en inzichtelijke analyses. Daarnaast ben ik een Excel-expert en geef ik regelmatig trainingen aan collega's om hun vaardigheden te verbeteren en hun efficiëntie te vergroten.
 
@@ -16,15 +16,15 @@ Dit maakt dat ik breed onderlegd en inzetbaar ben</b>
     -https://www.radardata.nl/
     - Data Management Consusltant
     - CDMP gecertificeerd
-    - ---------------------
+  - ---------------------
   - <b>Werkgever: The Medical Export Group</b>
     -https://www.medicalexportgroup.com/
     - Logistics Engineer
-    - ---------------------
+  - ---------------------
   - <b>Werkgever:ICU MedicaL </b>
     -https://www.icumed.com/
     - Data Analist
-    - ---------------------
+  - ---------------------
 <h2>📺 Vaardigheden</h2>
 
 - Power BI (https://github.com/PatrickBrom/portfolio)
