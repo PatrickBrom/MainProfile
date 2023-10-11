@@ -12,7 +12,7 @@ Ik ben een teamspeler en werk graag samen met collega's om de beste resultaten t
 <b> Deze vaardigheden heb ik opgedaan bij verschillende bedrijven in verschillende takken van sport. Onder andere logistiek, sales, finance, gezondheidszorg, maar ook fraudebestrijding en telecom.
 Dit maakt dat ik breed onderlegd en inzetbaar ben</b>
   - ---------------------
-  - <b>Werkgever: Radar Data</b>
+  - <b>Huidige Werkgever: Radar Data</b>
     -https://www.radardata.nl/
     - Data Management Consusltant
     - CDMP gecertificeerd
